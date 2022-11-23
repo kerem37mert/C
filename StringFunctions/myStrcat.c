@@ -1,5 +1,5 @@
 // strcat fonksiyonu
-//git deneme
+
 #include <stdio.h>
 
 char* myStrcat(char yazi1[], char yazi2[])
